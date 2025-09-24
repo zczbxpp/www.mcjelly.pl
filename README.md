@@ -19,7 +19,7 @@ Projekt został przygotowany jako platforma doładowań portfela gracza w sieci 
 ## Instalacja i uruchomienie
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/yourusername/mcJelly.git
+   git clone https://github.com/zczbxpp/www.mcjelly.pl.git
    cd mcJelly
    ```
 2. Zainstaluj zależności:
